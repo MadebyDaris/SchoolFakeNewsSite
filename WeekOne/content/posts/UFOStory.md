@@ -1,5 +1,5 @@
 +++
-title = "FaKe UFO News"
+title = "Fake UFO News"
 tag = ["News"]
 date = "2020-05-03"
 image = 'MutationCOV.jpeg'

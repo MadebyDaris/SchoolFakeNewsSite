@@ -1,7 +1,8 @@
 +++
 title = "our school"
+tag = ["about"]
 date = "2020-05-03"
-image = 'school.jpeg'
+featuredImage = 'images/school.jpeg'
 +++
 GEMS Metropole School is a supportive and caring community. It is easily accessible to parents from nearby communities with over 100 nationalities in the school. Every teacher, Learning Support Assistant and member of the admin and premises team, act as role models in order for children to achieve the highest standards. Alongside our dedicated staff, are our community of parents and carers who come from a wide range of cultures and backgrounds. We strive to work closely with parents as we know when school and home work together, their children achieve their very best. We hold many events and sessions throughout the year where parents are invited into school.
 
