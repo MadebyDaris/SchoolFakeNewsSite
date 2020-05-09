@@ -2,8 +2,8 @@ baseURL = "/"
 languageCode = "en-us"
 relativeURLs = true
 title = "Daris's Newsroom"
-# theme = "hugo-theme-minos"
-theme = "hugo-theme-novela"
+theme = "hugo-theme-minos"
+
 author = "Daris Idirene @ GEMS METROPOLE"
 copyright = "Copyright © 2019, Daris Idirene; all rights reserved."
 cannonifyURLs = true
