@@ -1,17 +1,15 @@
 +++
-title = "About us"
+title = "About Me"
 date = "2020-05-03"
 image = 'street.jpg'
 +++
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+hello I am Daris I am a young Inspired Math nerd/ programmer I am working hard on learning different aspects of coding here is a small project I have been working on **"A NewsRoom"**. I hope that you like it if so thank you and you can star my source code on github.
 
-It makes use of a variety of open source projects including:
 
-* [https://github.com/russross/blackfriday](https://github.com/russross/blackfriday)
-* [https://github.com/alecthomas/chroma](https://github.com/alecthomas/chroma)
-* [https://github.com/muesli/smartcrop](https://github.com/muesli/smartcrop)
-* [https://github.com/spf13/cobra](https://github.com/muesli/smartcrop)
-* [https://github.com/spf13/viper](https://github.com/muesli/smartcrop)
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+{{<figure src="../images/profile-1.jpeg">}}
+
+You can find my source code
+
+* [Source-Code](https://github.com/MadebyDaris/SchoolFakeNewsSite)
