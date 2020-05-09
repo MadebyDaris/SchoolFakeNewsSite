@@ -22,3 +22,5 @@ Dr. Korber did not immediately respond to an email request for comment.
 Mutations are tiny changes to genetic material that occur as it is copied. Human cells have many so-called proofreading proteins that keep mutations rare. Still, each baby arrives with dozens of new genetic mutations.
 
 [COV Particles](../../images/MutCOV.jpg)
+
+ Scientists can study the evolution of SARS-CoV-2 to learn more about how the genes of the virus function. It is also useful to make inferences about the spread of the virus around the world, and what type of vaccine may be most effective.
