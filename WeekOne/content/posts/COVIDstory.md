@@ -24,3 +24,18 @@ Mutations are tiny changes to genetic material that occur as it is copied. Human
 [COV Particles](../../images/MutCOV.jpg)
 
  Scientists can study the evolution of SARS-CoV-2 to learn more about how the genes of the virus function. It is also useful to make inferences about the spread of the virus around the world, and what type of vaccine may be most effective.
+
+ {{<youtube gt2JGYGXwqw>}}
+
+SARS-CoV-2 is the virus that causes the illness COVID-19. In the mutation, 81 letters in the virus’s genome had been deleted.
+
+Viral mutations are a normal part of a virus’s evolution and can alter the severity of the disease they cause.
+
+In the case of SARS-CoV-2, the finding is of interest because the nature of the mutation suggests it may have an association with a less severe form of the disease. A less virulent virus may have a selective advantage over other strains.
+
+[GISAID EpiCoVTN](https://www.gisaid.org/)
+After comparing these to sequences of SARS-CoV-2 deposited in the nonprofit GISAID’s EpiCoVTM Database, it became clear that one of the viruses had a unique mutation that involved the deletion of 81 letters from its genome.
+Researchers in the UK have discovered almost 200 recurrent genetic mutations to the virus that causes COVID-19.
+
+Their findings offer clues as to how the novel coronavirus, known as SARS-CoV-2, is adapting as it spreads from one person to another.
+

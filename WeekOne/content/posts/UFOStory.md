@@ -3,7 +3,7 @@ title = "Fake UFO News"
 tag = ["News"]
 date = "2020-05-03"
 image = 'MutationCOV.jpeg'
-featuredImage = "images/MutationCOV.jpg"
+featuredImage = "images/ufo.jpg"
 customCss = "../../css/foo.css"
 +++
 
@@ -35,6 +35,6 @@ In its statement, the Pentagon said: "After a thorough review, the department ha
 
 The fascination with the unexplained never goes away. And the UFO phenomenon is perhaps one of the most potent of these stories, linking uncertainty about worlds beyond our own to conspiracy theories about government and especially the US government.
 
-Down the centuries people have looked to the sky and tried to explain mysterious lights and objects. But the modern UFO story took root in 1947 when a farmer discovered debris at Roswell, New Mexico, initially described as a flying disc, but now thought t
+Down the centuries people have looked to the sky and tried to explain mysterious lights and objects. But the modern UFO story took root in 1947 when a farmer discovered debris at Roswell, New Mexico, initially described as a flying disc, but now thought to be part of a secretive balloon programme to monitor the Soviet Union.
 
 {{<tweet 1254984848227184642>}}

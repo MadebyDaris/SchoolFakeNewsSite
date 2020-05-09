@@ -13,7 +13,30 @@
     
     
     <item>
-      <title>Breaking News</title>
+      <title>COVID19 Mutation</title>
+      <link>/posts/covidstory/</link>
+      <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/covidstory/</guid>
+      <description>SARS COVID 19 Virus might have mutated A colored scanning electron micrograph of a dying cell infected with the coronavirus, with viral particles in red.
+All viruses mutate, and the coronavirus is no exception. But there is no compelling evidence yet that it is evolving in a way that has made it more contagious or more deadly.
+A preprint study — posted online, but not published in a scientific journal and not yet peer-reviewed — has set the internet afire by suggesting otherwise.</description>
+    </item>
+    
+    <item>
+      <title>Fake UFO News</title>
+      <link>/posts/ufostory/</link>
+      <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/ufostory/</guid>
+      <description>The US Department of Defense has released three declassified videos of &amp;ldquo;unexplained aerial phenomena&amp;rdquo;.
+The Pentagon said it wanted to &amp;ldquo;clear up any misconceptions by the public on whether or not the footage that has been circulating was real&amp;rdquo;.
+The videos had already been leaked in 2007 and 2017.
+Two were published by the New York Times, while the third was leaked by an organisation co-founded by former Blink-182 singer Tom DeLonge.</description>
+    </item>
+    
+    <item>
+      <title>False Breaking News Big Foot Caught</title>
       <link>/posts/newsstory01/</link>
       <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
       
