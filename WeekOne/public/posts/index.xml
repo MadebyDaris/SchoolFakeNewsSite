@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Daris&#39;s Newsroom</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Daris&#39;s Newsroom</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2019, Daris Idirene; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 03 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>COVID19 Mutation</title>
+      <link>/posts/covidstory/</link>
+      <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/covidstory/</guid>
+      <description>SARS COVID 19 Virus might have mutated A colored scanning electron micrograph of a dying cell infected with the coronavirus, with viral particles in red.
+All viruses mutate, and the coronavirus is no exception. But there is no compelling evidence yet that it is evolving in a way that has made it more contagious or more deadly.
+A preprint study — posted online, but not published in a scientific journal and not yet peer-reviewed — has set the internet afire by suggesting otherwise.</description>
+    </item>
+    
+    <item>
+      <title>False Breaking News Big Foot Caught</title>
+      <link>/posts/newsstory01/</link>
+      <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/newsstory01/</guid>
+      <description>Bigfoot caught on camera “My friend and I got permission to fly our drones at Salt Fork State Park in Ohio,” one of the men writes, in a post accompanying the video. “While we were there we heard many strange noises and we believe we may have found the Ohio Grassman/Bigfoot/Sasquatch.”
+Ohio Grassman is a local nickname for Bigfoot.
+Bigfoot has become better known and a phenomenon in popular culture, and sightings have spread throughout North America.</description>
+    </item>
+    
+    <item>
+      <title>our school</title>
+      <link>/posts/post01/</link>
+      <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/post01/</guid>
+      <description>GEMS Metropole School is a supportive and caring community. It is easily accessible to parents from nearby communities with over 100 nationalities in the school. Every teacher, Learning Support Assistant and member of the admin and premises team, act as role models in order for children to achieve the highest standards. Alongside our dedicated staff, are our community of parents and carers who come from a wide range of cultures and backgrounds.</description>
+    </item>
+    
+  </channel>
+</rss>

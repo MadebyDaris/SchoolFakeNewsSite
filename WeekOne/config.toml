@@ -1,0 +1,19 @@
+baseURL = "/"
+languageCode = "en-us"
+relativeURLs = true
+title = "Daris's Newsroom"
+# theme = "hugo-theme-minos"
+theme = "hugo-theme-novela"
+author = "Daris Idirene @ GEMS METROPOLE"
+copyright = "Copyright © 2019, Daris Idirene; all rights reserved."
+cannonifyURLs = true
+# Enable syntax highlighting
+# comment or delete lines 11 ~ 14
+pygmentsCodefences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsUseClasses=true
+pygmentsOptions = "linenos=table"
+
+[params]
+    smartToc = true
+    noPostNavigation = true 
